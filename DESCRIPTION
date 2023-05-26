@@ -1,0 +1,31 @@
+Type: Package
+Package: RROE
+Title: Récupérer et manipuler les données du ROE
+Version: 0.1.0
+Author: Cédric Mondy
+Maintainer: Cédric Mondy <cedric.mondy@ofb.gouv.fr>
+Description: Ce package fournit des fonctions permettant de manipuler les
+    données du ROE
+License: MIT
+Depends: 
+    R (>= 4.0)
+Imports: 
+    dplyr,
+    ggplot2,
+    happign,
+    httr,
+    OpenStreetMap,
+    openxlsx,
+    progress,
+    purrr,
+    sf,
+    sp,
+    stars,
+    stringr,
+    tidyr
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3

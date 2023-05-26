@@ -1,0 +1,26 @@
+Description;Lien;NomScript;NomCouche
+Code national de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/CdObstEcoul;CdObstEcoul;CdObstEcou
+Coordonnée X du point caractéristique de l’ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/CoordXPointCarOuvrage;CoordXPointCarOuvrage;CoordXPoin
+Coordonnée Y du point caractéristique de l’ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/CoordYPointCarOuvrage;CoordYPointCarOuvrage;CoordYPoin
+Nom principal de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/NomPrincipalObstEcoul;NomPrincipalObstEcoul;NomPrincip
+Nom principal de l’entité hydrographique;http://id.eaufrance.fr/ddd/ETH/2002-1/NomEntiteHydrographique;NomEntiteHydrographique;NomEntiteH
+Statut de validation d’un obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/StObstEcoul;StObstEcoul;StObstEcou
+Libellé de l’état d’un ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/LbEtOuvrage;LbEtOuvrage;LbEtOuvrag
+Type d’ouvrage;http://id.eaufrance.fr/ddd/ORG/1.0/TypeOuvrage;CdTypeOuvrage;CdTypeOuvr
+Type d’élément mobile d’un seuil;http://id.eaufrance.fr/ddd/OBS/1.2/TypeElMobSeuil;CdTypeElMobSeuil1;CdTypeElMo
+Type d’élément mobile d’un seuil;http://id.eaufrance.fr/ddd/OBS/1.2/TypeElMobSeuil;CdTypeElMobSeuil2;CdTypeEl_1
+Type d’élément mobile d’un seuil;http://id.eaufrance.fr/ddd/OBS/1.2/TypeElMobSeuil;CdTypeElMobSeuil3;CdTypeEl_2
+Hauteur de chute estimée à l’étiage;http://id.eaufrance.fr/ddd/OBS/1.2/HautChutEtObstEcoul;HautChutEtObstEcoul;HautChutEt
+Code de la hauteur de chute à l’étiage par classe;http://id.eaufrance.fr/ddd/OBS/1.2/HautChutClObstEcoul;CdHautChutClObstEcoul;CdHautChut
+Usage de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/UsageObstEcoul;CdUsageObstEcoul1;CdUsageObs
+Usage de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/UsageObstEcoul;CdUsageObstEcoul2;CdUsageO_1
+Usage de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/UsageObstEcoul;CdUsageObstEcoul3;CdUsageO_2
+Usage de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/UsageObstEcoul;CdUsageObstEcoul4;CdUsageO_3
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole1;CdTypeDisp
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole2;CdTypeDi_1
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole3;CdTypeDi_2
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole4;CdTypeDi_3
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole5;CdTypeDi_4
+Type d’organe de franchissement de navigation;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchNavig;CdTypeDispFranchNavig1;CdTypeDi_5
+Type d’organe de franchissement de navigation;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchNavig;CdTypeDispFranchNavig2;CdTypeDi_6
+Type d’organe de franchissement de navigation;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchNavig;CdTypeDispFranchNavig3;CdTypeDi_7
