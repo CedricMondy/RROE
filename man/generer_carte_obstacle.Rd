@@ -4,7 +4,11 @@
 \alias{generer_carte_obstacle}
 \title{Générer des cartes de localisation des ouvrages ROE}
 \usage{
-generer_carte_obstacle(donnees_ouvrage, fichier, fond_carte = c("ign", "osm"))
+generer_carte_obstacle(
+  donnees_ouvrage,
+  fichier,
+  fond_carte = c("ign_plan", "osm")
+)
 }
 \arguments{
 \item{donnees_ouvrage}{données d'un ouvrage}

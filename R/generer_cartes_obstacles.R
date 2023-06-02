@@ -14,14 +14,14 @@
 #' @importFrom sf st_transform st_buffer st_bbox st_as_sfc st_drop_geometry
 #' @importFrom sp CRS
 #' @importFrom stars read_stars st_rgb geom_stars
-generer_carte_obstacle <- function(donnees_ouvrage, fichier, fond_carte = c("ign", "osm")) {
+generer_carte_obstacle <- function(donnees_ouvrage, fichier, fond_carte = c("ign_plan", "osm")) {
 
         ouvrage_bbox <- donnees_ouvrage %>%
             sf::st_transform(crs = 2154) %>%
             sf::st_buffer(600) %>%
             sf::st_bbox()
 
-        if (fond_carte == "ign") {
+        if (fond_carte == "ign_plan") {
             happign::get_wms_raster(
                 shape = sf::st_as_sfc(ouvrage_bbox),
                 apikey = "cartes",
